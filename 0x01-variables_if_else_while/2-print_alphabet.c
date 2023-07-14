@@ -1,5 +1,4 @@
-nclude < stdio.h >
-
+#include <stdio.>
 /**
   * main - main block
   * Description: Use `putchar` to print lowercase alphabetand then a new line.
