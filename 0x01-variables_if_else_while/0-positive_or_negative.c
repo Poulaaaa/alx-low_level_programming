@@ -2,7 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 
-/* if and if else */
+/**
+   * main - Entry point of the program
+    *
+     * Return: Always 0
+      */
+
 int main(void)
 {
 	int n;
